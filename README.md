@@ -6,7 +6,7 @@
 
 ## Introduction
 
-As a data analyst you will have to work with a big amount of data. Extracting meaningful insights from your data can be done by dividing your data into subsets using Pandas library. It's a simple way to perform several types of analyses such as descriptive statistics.
+ As a data analyst you will have to work with a big amount of data. Extracting meaningful insights from your data can be done by dividing your data into subsets using Pandas library. It's a simple way to perform several types of analyses such as descriptive statistics.
 In this lab, you will use Pandas library to extract insights from your data by dividing it into into several subsets. You might also need to use some Pandas descriptive statistics functions. 
 
 ## Getting Started
